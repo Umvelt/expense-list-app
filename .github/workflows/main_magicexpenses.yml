@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'magicexpenses'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A78C4423113472A90825609422641C6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1576FF0FDDB047A4A677D91D36AE56E0 }}
           package: .
